@@ -50,6 +50,7 @@ when ever we click on a function to open it will go to the app.routing.modules.t
 // we have to run or serve (ng serve in our parent app then only those commands will work
 )
 //Services
+
 we have to create button in html (appComponent)
 we have to create a (inject)
 GIT
